@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers|Raleway');
+
+h1, h2, h3, h4, h5, h6, p, li {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-size: 2.5em;
+  text-align: center;
+  color: darkred; 
+}
+
+body {
+  background-color: #fff9ed; 
+}
+
+.menuborder {
+  border-style: double;
+  margin: 75px;
+  padding: 30px;
+}
