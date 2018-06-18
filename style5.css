@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.dark {
+    background-color:black;
+    color:white;
+}
+
+img {
+    width: 50%;
+}
+
+h3, p {
+    margin: 10px;
+    padding: 5px;
+}
+
+.session {
+    background-color: darkgray;
+    color: aliceblue; 
+    text-align: left;
+    padding: 100px 230px 100px 30px;
+    background-image:url('../images/macbook.jpg');
+    background-size: cover;
+}

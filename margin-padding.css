@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    margin: 25px 25px 25px 25px;
+}
+
+div {
+    margin-bottom: 35px;
+}
+
+h1, h2, h3, p, h5 {
+    margin: 10px 10x 10px 10px;
+}
+
+.border {
+    color: deepskyblue; 
+    border: 2px solid grey;
+    padding: 2px 4px 2px 4px;
+}
+
+h5 {
+    text-align: center;
+}
+
+h2 {
+    color: skyblue;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.mojave {
+    padding: 10% 5% 10% 45%
+}
+
+.darkmode {
+    background-color: black;
+    color: white;
+    padding: 10% 45% 10% 5%;
+ }
+
+.desktop {
+    background-color: lightslategrey;
+    padding: 10% 5% 10% 45%;
+}
+
+.screenshots {
+    background-color: darkblue;
+    color: white;
+    padding: 10% 45% 10% 5%;
+}
+
+
+
