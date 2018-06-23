@@ -1,0 +1,46 @@
+body {
+  font-family: helvetica;
+  background: lightgrey;
+}
+
+.parent {
+  display: flex;
+}
+
+h2, h1, h3 {
+  text-align: center;
+}
+
+.box {
+  border: 2px solid black;
+  padding: 1.5%;
+  margin: 8px;
+  background: white;
+  flex: 1;
+}
+
+.box img {
+    width: 19.5%;
+}
+
+ul {
+  list-style-type: none;
+  background: black;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+li {
+  display: inline;
+  padding-right: 10%;
+  color: white;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}

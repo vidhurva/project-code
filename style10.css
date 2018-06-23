@@ -1,0 +1,26 @@
+body {
+  font-style: sans-serif;
+}
+
+.intro {
+  padding: 8%;
+  border: 1.5px solid black;
+  text-align: center;
+  background: lightgray;
+}
+
+h1 {
+  text-align: center;
+}
+
+.master {
+  display: flex;
+}
+
+.box {
+  border: 2px solid purple;
+  padding: 1%;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+}
